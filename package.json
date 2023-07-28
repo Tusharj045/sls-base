@@ -1,0 +1,14 @@
+{
+  "name": "GDriveBackend",
+  "version": "1.0.0",
+  "description": "Tusharj045 template for Serverless Framework projects",
+  "author": "Tushar Jaiswal",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless-bundle": "^6.0.0",
+    "serverless-pseudo-parameters": "^2.6.1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1425.0"
+  }
+}
